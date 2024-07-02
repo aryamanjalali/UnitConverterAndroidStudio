@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # UnitConverterAndroid
 
 <IN PROGRESS> Convertion - temperature, number and length converter.
@@ -38,3 +39,6 @@ DONE:
 - temperature conversion
 - length conversion
 - number conversion
+=======
+# UnitConverterAndroidStudio
+>>>>>>> aa1c1d1c0b5085c54f5fd5cdf39282912357e8ac
